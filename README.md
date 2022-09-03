@@ -41,7 +41,7 @@ The district and school summary along with other metrics  were calculated for th
 <tr><td><img alt=“Adjusted School Summary” src="Resources/Adjusted_School_Summary.png" width="800"/></td></tr>
 
 - The original school summary showed that Thomas High School had an overall passing percentage of around 91%.
-- The adjusted school summary calculated the passing scores considering the total number of 10th - 12th grade students only. These numbers have gone down significantly.
+- The adjusted school summary calculated the overall passing scores considering the total number of 10th - 12th grade students only. By removing the math and reading scores of ninth graders from the analysis, the overall passing percentage came down significantly from 91% to 65%. The school's passing math and reading percentages also dropped over 25%.
 
 ### Effect on Thomas High School's Performance:
 <tr><td>Results from original School Performance</td></tr>
