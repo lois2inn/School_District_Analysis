@@ -23,14 +23,38 @@ A chief data scientist for a city school district has given tasks to analyze and
 - Numpy 1.21.5
 
 ## School District Results
+The district and school summary along with other metrics  were calculated for the school district initially. Later on, the reading and math scores of **461** students in the ninth grade of Thomas High School were turned into null data due to academic dishonesty. The school metrics were recalculated to observe the impact. 
 
 ### Effect on District Summary
+<tr><td>Results from original District Summary</td></tr>
+<tr><td></td></tr>
+<tr><td>Results from adjusted District Summary</td></tr>
+<tr><td></td></tr>
+
+- The total number of schools, students and total budget for the district remained the same. 
+- There is very little impact on the district's reading and math scores when the reading and math scores of Thomas High School ninth graders were changed. 
+
 
 ### Effect on School Summary
+<tr><td align="center">Results from original School Summary</td></tr>
+<tr><td></td></tr>
+<tr><td>Results from adjusted School Summary</td></tr>
+<tr><td></td></tr>
 
 ### Effect on Thomas High School's Performance
+<tr><td>Results from original School Performance</td></tr>
+<tr><td></td></tr>
+<tr><td>Results from adjusted School Performance</td></tr>
+<tr><td></td></tr>
 
 ### Effect on Grade level Math and reading scores
+The scores were calculated with 10, 11, 12 th grade students. Ninth grade were excluded.
+<tr>
+  <td>Results from original Grade level Scores </td>
+  <td></td>
+  <td>Results from adjusted Grade level Scores</td>
+  <td></td>
+</tr>
 
 ### Scores by school spending
 
