@@ -51,7 +51,8 @@ The district and school summary along with other metrics  were calculated for th
 
 
 - ### Effect on Thomas High School's Performance relative to other schools:
-  - In the original analysis, Thomas High School ranked second in the district.
+  - In the original analysis, Thomas High School ranked second in the district of 15 schools.
+  - The adjusted analysis shows that the school's rank dropped to 8th position.
 <table>
 <tr>
   <td>Initial Rank of Thomas High School</td>
